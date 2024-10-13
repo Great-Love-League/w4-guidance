@@ -1,5 +1,6 @@
 {
   "import": [
+    "moonbit/demo/lib",
     "moonbitlang/wasm4"
   ],
   "link": {
